@@ -1,7 +1,7 @@
 import streamlit as st
 #creating the page configuration:
 st.set_page_config(
-    page_title="Global Movers",
+    page_title="Global Movers - Driver's Portal",
     page_icon = "🌎",
 )
 
